@@ -7,14 +7,38 @@ Jesus</a></h1>
 <p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hscThheThvNGJoeGt5cDV0bDV2ZmN3ZnA5aWNkbGExZnJqYWx5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif>
 </a>
 .
+
 ## I am a web analyst and programmer
 
 - 👨‍💻 I am currently a web programmer of HTML, CSS or JS.
 - 📚 my performance in the development and design of web pages for companies. 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+
+  🐾 web development analysis
+
+I like to create and invent new things like web pages. I know a little about the programming language and a little about how to put or place the design so that the page is responsive on mobile devices.
+
+💀 web design
+
+I like to edit, design or analyze a web page such as icons or buttons.
+ C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Web designing, Android development, and digital marketing**
+- 🌱 I’m currently learning ...
+  - Java
+  - Css
+  - Html
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help,<br>
+- Outside tech, 🎩  I love playing games, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+
+
+
+
+
+
 
 - ##### Languages I use
 
@@ -45,7 +69,6 @@ Jesus</a></h1>
 <br/>
 
 ---
-
 
 
 
